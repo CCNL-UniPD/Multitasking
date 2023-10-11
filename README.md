@@ -2,7 +2,7 @@
 Multitasking stroke study
 
 Contents:
-- nii volume with predictive voxels from multivariate lesion analysus
-- nii volume with predictive voxels from multivariate disconnectome analyses 
-- MRIcroGL scripts to disply the predictive maps
+- nii volume with predictive voxels (Z-map) from multivariate lesion analysis
+- nii volume with predictive voxels (Z-map) from multivariate disconnectome analysis 
+- MRIcroGL scripts to display the predictive maps
 - Eprime code for the computerized multitasking paradigm 

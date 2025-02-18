@@ -1,6 +1,7 @@
-# Multitasking
+# Multitasking in stroke patients
 Susceptibility to multitasking in chronic stroke is associated to damage of the multiple demand system and leads to lateralized visuospatial deficits
-Blini, D'Imperio, Romeo, De Filippo De Grazia3, Passarini, Pilosio, Meneghello, Bonato and Zorzi 
+
+Blini, D'Imperio, Romeo, De Filippo De Grazia, Passarini, Pilosio, Meneghello, Bonato, Zorzi 
 
 Contents:
 - lesion_overlay: overlay of patients' lesions (nii file)

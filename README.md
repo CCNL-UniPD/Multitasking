@@ -1,5 +1,5 @@
 # Multitasking in stroke patients
-Susceptibility to multitasking in chronic stroke is associated to damage of the multiple demand system and leads to lateralized visuospatial deficits
+Susceptibility to multitasking in stroke is associated to multiple-demand system damage and leads to lateralized visuospatial deficits
 
 Blini, D'Imperio, Romeo, De Filippo De Grazia, Passarini, Pilosio, Meneghello, Bonato, Zorzi 
 
@@ -10,3 +10,4 @@ Contents:
 - multitasking_disconnectome_map_z: predictive voxels (Z-map) from multivariate disconnectome analysis (nii file) 
 - MRIcroGL python scripts to display the predictive maps (multitasking_figure_lesion/disconn.py)
 - Load task: Eprime code for the computerized multitasking paradigm (zipped archive) 
+- "Data Fig 2 average" and "Data Fig 2b boxplot": behavioral data used to generate Figure 2 e 2b 
